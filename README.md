@@ -14,7 +14,8 @@ This model can capture intricate relationships within data, making it suitable f
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![image](https://github.com/niraunjana/basic-nn-model/assets/119395610/1ad747a0-396c-4abd-88b0-e64209671591)
+
 
 ## DESIGN STEPS
 
